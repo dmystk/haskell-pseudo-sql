@@ -1,1 +1,1 @@
-# haskell-pseudo-sql
+# Haskell Pseudo SQL
