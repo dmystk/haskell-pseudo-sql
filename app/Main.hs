@@ -1,6 +1,6 @@
 module Main where
 
-import Lib
+import HPSQL.App
 
 main :: IO ()
-main = someFunc
+main = repl
